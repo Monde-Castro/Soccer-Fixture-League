@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Soccer Fixture League.exe" version="1.0.0.0" publicKeyToken="ad868b3c925e2491" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Soccer Fixture League" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Soccer Fixture League.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Soccer Fixture League.exe" size="38912">
+      <assemblyIdentity name="Soccer Fixture League" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>s5jxwq9CLIVvOs03A2EpHy8S0uCMPR3r/6tutrs/hfU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Soccer Fixture League.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-59A6TN8\FileSharing" issuerKeyHash="83bb7b31e49577bf42b219c8b765293e2ab964dd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>z/+G95kfCdYuuzv7b1MZ2lgGpJ+7XxZIxFLpF5PECIs=</DigestValue></Reference></SignedInfo><SignatureValue>p7StyXOAqMOH/bkuH4TuCD6aFNqWQuDUvIVtONmSr2H1mZudOI4fzrDc9jDFkEGlmvaGKDIePKjXK5b2u1Ug093beqNklV402ChAECRMprQYQgbnOyYrNJlUUdoA7buwa3ktC1ly9baBBcD8/2ZZGHY19QNCaaKsSADt76oqIqw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v8Kl9rD2XSe5XdGP6fNfiIatoIBZcSiCq6mlU5dvo4CCg6E6VcnnBVBidcIY0inPuBxxePf+qMPB/KbOVuZPW4T4J96fOU9Scwj+N/xJ2qg6RrA/nHncTwwy5H7lZWF1y2GnwzrbxuWFEOxOONVztsBRhZ/cRh5cX20xRFqiNzU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8b08c49317e952c448165fbb9fa40658da19536ffb3bbb2ed6091f99f786ffcf" Description="" Url=""><as:assemblyIdentity name="Soccer Fixture League.exe" version="1.0.0.0" publicKeyToken="ad868b3c925e2491" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-59A6TN8\FileSharing</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xNv/GWTgfPGvLAMA3AfGtU2KS4b0hO3FnuH9kJObc88=</DigestValue></Reference></SignedInfo><SignatureValue>LxCans+kGuUQTzyOD3lsv1ivUIpZ5x0GbkTi4B5MxBQqu2cj8UppoXHFKZI4il+otgM8owRTzF5p7agSdIECJ+sI27iJgE3VTq6gp3Q9rDy6nYT9MdsCZDHI9xktS42mUo1Ybi2WhxFFGTS2t2tRYeg2YheBQEkjXWMIqKx4guM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v8Kl9rD2XSe5XdGP6fNfiIatoIBZcSiCq6mlU5dvo4CCg6E6VcnnBVBidcIY0inPuBxxePf+qMPB/KbOVuZPW4T4J96fOU9Scwj+N/xJ2qg6RrA/nHncTwwy5H7lZWF1y2GnwzrbxuWFEOxOONVztsBRhZ/cRh5cX20xRFqiNzU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQJb/4sYwLUp9C6MrEkb1ayDANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtADUAOQBBADYAVABOADgAXABGAGkAbABlAFMAaABhAHIAaQBuAGcwHhcNMjIwMzI0MTMyMTUwWhcNMjMwMzI0MTkyMTUwWjBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtADUAOQBBADYAVABOADgAXABGAGkAbABlAFMAaABhAHIAaQBuAGcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL/Cpfaw9l0nuV3Rj+nzX4iGraCAWXEogquppVOXb6OAgoOhOlXJ5wVQYnXCGNIpz7gccXj3/qjDwfymzlbmT1uE+CfenzlPUnMI/jf8SdqoOkawP5x53E8MMuR+5WVhdcthp8M628blhRDsTjjVc7bAUYWf3EYeXF9tMURaojc1AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAVBU3TEvTdWd7+YsVCRTVpka/ZWp/DrptFsNjMTYNbFqIMx5dfoA4nZil60E9XbvK8tJcBn5l3MZtYrSF8k/zSHrIcpKr0sOk8CuvNkOoAOcma/UiAgnxB8eD6rEszdQFuqL0rH82Zljoh3EXkppb8H1vTl+ZA/DckcBbm911M58=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

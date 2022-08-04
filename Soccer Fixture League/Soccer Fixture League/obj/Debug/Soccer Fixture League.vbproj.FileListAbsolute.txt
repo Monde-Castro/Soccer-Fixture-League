@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer_Fixture_League.FrmFirstLeague.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer_Fixture_League.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\bin\Debug\Soccer Fixture League.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Fixture League\Soccer Fixture League\obj\Debug\Soccer Fixture League.application
